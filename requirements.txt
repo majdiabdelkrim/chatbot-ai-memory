@@ -1,0 +1,14 @@
+# Interface
+chainlit
+# LLM
+groq
+# Orchestration
+langchain
+langchain-core
+langchain-groq
+# Embeddings
+sentence-transformers
+# Vector Database
+pinecone
+# Configuration
+python-dotenv

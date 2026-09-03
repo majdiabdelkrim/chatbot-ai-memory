@@ -1,0 +1,12 @@
+.venv/
+vectorstore/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.vscode/
+.idea/
+*.log
+.DS_Store
